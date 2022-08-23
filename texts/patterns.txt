@@ -1,0 +1,10 @@
+hello
+onE
+^TEST
+World$
+^Hello$
+h(e|z)
+f(i|o)
+h[ez]
+d[io]
+\dschool
