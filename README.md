@@ -28,7 +28,7 @@ Implementation of GNU `cat` and BSD `grep`.
 ## Build
 
 ```
-$ git clone https://github.com/bezlant/s21_cat_grep
+$ git clone https://github.com/finchren/s21_cat_grep
 $ cd s21_cat_grep/src/
 $ make
 ```
